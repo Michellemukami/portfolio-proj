@@ -1,0 +1,52 @@
+h1{
+  color: purple;
+}
+
+body{
+  background-image: url("https://bestyquote.com/wp-content/uploads/2019/05/mug-2586266_1920-1920x1200.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family:fantasy;
+}
+
+.media{
+  display: flex;
+  flex direction: flex;
+}
+
+h2{
+  text-align: left;
+  color: purple;
+}
+.cool{
+  text-align:left;
+  font-size: 0.9em ;
+  font-family:fantasy;
+  float: left;
+  color: white;
+}
+.like{ font-size: 2em;
+  font-family: serif;
+}
+.head{
+  text-align:left;
+  color: purple;
+  float: left;
+  text-overflow: clip;
+
+}
+.zero{
+  text-align: left;
+  float: left;
+  color: white;
+}
+
+}
+h4{
+  color: black;
+}
+.kami{
+  text-align: center;
+  margin-top: 1.3em;
+}
